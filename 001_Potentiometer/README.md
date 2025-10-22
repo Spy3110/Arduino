@@ -6,5 +6,6 @@ We have-
 1. Arduino (duh)
 2. Potentiometer
 3. Some Brain cells
-   Now we do the wiring like, one outer pin to GND, other outer pin to 5V and the middle one to the A0 (which is analog input btw)
+---
+Now we do the wiring like, one outer pin to GND, other outer pin to 5V and the middle one to the A0 (which is analog input btw)
 yeah, thats it. And then copy paste the sketch code and then see the magic~
